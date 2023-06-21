@@ -26,7 +26,7 @@ How has your work on this project evolved the way you write programs that are ma
 
 The more programs I write, the more I understand why it is important to write clear, reusable code with detailed comments.
 Revisiting the code after time has passed can be difficult if there are no comments to help find the section you're looking for. 
-As time goes on, it is necessary to revisit code and update it with new features and ensure that it is still relevant for its purpose.
+As time goes on, it is necessary to update code with new features and ensure that it is still relevant for its purpose.
 Having code that can be reused helps cut the time it takes to develop programs and, in turn, saves money.
 
 
